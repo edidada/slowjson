@@ -1,0 +1,19 @@
+{
+  "a": "b",
+  "c": [1,2,3],
+  "d": {
+    "name": "test",
+    "age": 19,
+    "email": "test@email.com"
+  },
+  "attrs": [{
+    "key": "name",
+    "type": "string"
+  }, {
+    "key": "age",
+    "type": "int"
+  }, {
+    "key": "email",
+    "type": "string"
+  }]
+}

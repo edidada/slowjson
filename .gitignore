@@ -1,6 +1,6 @@
 /.idea
 /target
-plato.iml
+*.iml
 *.log.*
 *.log
 .DS_Store
